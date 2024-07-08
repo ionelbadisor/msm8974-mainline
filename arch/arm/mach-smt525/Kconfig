@@ -1,0 +1,5 @@
+# SPDX-License-Identifier: GPL-2.0-only
+config MACH_SMT525
+	bool "Enable Picassolte support"
+	help
+	  This currently enable build of machine dtb, No other machine specific configs"

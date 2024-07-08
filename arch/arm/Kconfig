@@ -440,6 +440,8 @@ source "arch/arm/mach-sa1100/Kconfig"
 
 source "arch/arm/mach-shmobile/Kconfig"
 
+source "arch/arm/mach-smt525/Kconfig"
+
 source "arch/arm/mach-socfpga/Kconfig"
 
 source "arch/arm/mach-spear/Kconfig"

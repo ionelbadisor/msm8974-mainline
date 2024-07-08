@@ -55,3 +55,7 @@ dtb-$(CONFIG_ARCH_S5PV210) += \
 	s5pv210-smdkc110.dtb \
 	s5pv210-smdkv210.dtb \
 	s5pv210-torbreck.dtb
+dtb-$(CONFIG_MACH_SMT525) += \
+	msm8974-sec-picasso-r11.dtb \
+	msm8974-sec-picasso-r12.dtb \
+	msm8974-sec-picasso-r14.dtb
